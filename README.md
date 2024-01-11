@@ -1,5 +1,4 @@
 ## Lane Keeping and Navigation of a Self-driving RC Car Based on Image Semantic Segmentation and GPS Fusion
-About The Project
 This repository contains the code and resources for the 2022 IEEE research paper "Lane Keeping and Navigation of a Self-driving RC Car Based on Image Semantic Segmentation and GPS Fusion". The paper discusses an approach to autonomous vehicle navigation, combining image semantic segmentation and GPS data fusion.
 
 ## Notice
