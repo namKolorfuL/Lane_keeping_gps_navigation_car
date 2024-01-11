@@ -38,7 +38,7 @@ TensorRT conversion is in tensorrt/trt_utils
 
 ### Run the RC-car
 To be run in a bash script
-'''Description:
+<Description:
     This script runs the driving algorithm. Here is a breakdown:
     - Running this python script in a bash or .sh scipt along with a scrip that receive driving signals from the Hand controlller.
     - The script runs as 2 proccess.
@@ -47,7 +47,7 @@ To be run in a bash script
             o The controller uses yaw angle passed from a script that runs the Pytorch model in realtime with video input from the Top camera of the vehicle. 
             This will keep the vehicle running within the road lane.
             o The controller uses GPS/IMU data passed from the client to calculate the distance between the vehicle and the next waypoint AND estimate the steering angle.
-            This will keep the vehicle running on the right, predifined GPS path. This will help the vehicle cross the intersection and drive along a designated GPS route.'''
+            This will keep the vehicle running on the right, predifined GPS path. This will help the vehicle cross the intersection and drive along a designated GPS route.>
 
 ## Research Paper
 If you find this repo helpful for your work, consider citing our paper:
