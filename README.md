@@ -5,7 +5,7 @@ This repository contains the code and resources for the 2022 IEEE research paper
 Some of the code may have been deprecated due to changes in NVIDIA SDK, and TensorRT engines, conversion modules from NVIDIA. As of now, we don't have access to the hardware used in the paper but we will try to help in issue.
 
 ## Getting Started
-Instructions on how to set up the project locally.
+For utilities code, check https://github.com/namKolorfuL/deep-car
 
 ## Prerequisites
 ### Hardware (our setup)
